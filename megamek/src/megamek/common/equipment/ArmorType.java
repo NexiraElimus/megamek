@@ -531,7 +531,7 @@ public class ArmorType extends MiscType {
                 .setClanApproximate(true, true, false, false, false).setPrototypeFactions(F_CSR)
                 .setProductionFactions(F_CSR);
 
-        armor.armorType = T_ARMOR_ALUM;
+        armor.armorType = T_ARMOR_ALUM_C;
         armor.pptMultiplier = 1.2;
         armor.pptDropship = new double[] { 24.0, 20.4, 16.8, 14.4, 12.0, 8.4 };
 
