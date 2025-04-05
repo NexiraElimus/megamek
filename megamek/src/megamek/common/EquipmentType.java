@@ -101,6 +101,7 @@ public class EquipmentType implements ITechnology {
     public static final int T_ARMOR_SV_BAR_8 = 49;
     public static final int T_ARMOR_SV_BAR_9 = 50;
     public static final int T_ARMOR_SV_BAR_10 = 51;
+    public static final int T_ARMOR_ALUM_C = 52;
 
     public static final int T_STRUCTURE_UNKNOWN = -1;
     public static final int T_STRUCTURE_STANDARD = 0;
